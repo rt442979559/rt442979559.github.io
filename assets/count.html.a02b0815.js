@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-e0a8de3a","path":"/count.html","title":"count","lang":"en-US","frontmatter":{"title":"count"},"excerpt":"","headers":[{"level":3,"title":"count title","slug":"count-title","children":[]}],"git":{"updatedTime":1659680092000,"contributors":[{"name":"hero","email":"rt442979559@qq.com","commits":1}]},"filePathRelative":"count.md"}');export{t as data};

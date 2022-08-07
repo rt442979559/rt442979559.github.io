@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-98e88ab4","path":"/map/gdmap.html","title":"\u9AD8\u5FB7\u5730\u56FE","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659864671000,"contributors":[{"name":"hero","email":"rt442979559@qq.com","commits":1}]},"filePathRelative":"map/gdmap.md"}');export{e as data};
